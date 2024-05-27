@@ -14,6 +14,7 @@ Project Structure:-
 Data Files:
 1. seattle-weather.csv
 2. weather.csv
+
 Source Code:
 1. Weather prediction & forecasting.ipynb
 2. temperature prediction.ipynb
