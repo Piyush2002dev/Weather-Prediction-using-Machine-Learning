@@ -3,7 +3,7 @@ Project Titled - An Intelligent Regression Approach for Weather Forecasting Syst
 
 This repository contains a machine-learning project for weather prediction. The goal of this project is to develop a model that can accurately predict weather conditions based on historical data.
 
-Table of Contents:
+## Table of Contents:
 1. Abstract
 2. Project Structure
 3. Publisher
@@ -25,6 +25,8 @@ Data Files:
 
 ## Publisher:
 The research paper for this project is published in the proceedings of the 1st International Conference on Cognitive, Green, and Ubiquitous Computing (IC-CGU), held on 1-2 March 2024.
-Publisher Name: IEEE Xplore
+ - Publisher Name: IEEE Xplore
+ - Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530704&isnumber=10530657
 
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530704&isnumber=10530657
+## Authors
+- [Piyush Das](www.linkedin.com/in/piyush-das-ab2241201)
